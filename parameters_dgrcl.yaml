@@ -51,5 +51,5 @@ drop_feature_rate_1: drop_edge_rate_1
 drop_feature_rate_2: drop_edge_rate_2
 
 ...
-stock_name: 'nasdaq'
+stock_name: nasdaq
 ... 
